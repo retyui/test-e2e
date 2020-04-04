@@ -1,0 +1,8 @@
+{
+  "name": "test-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:retyui/test-e2e.git",
+  "author": "David <4661784+retyui@users.noreply.github.com>",
+  "license": "MIT"
+}
